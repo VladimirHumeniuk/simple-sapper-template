@@ -58,7 +58,7 @@ self.addEventListener('fetch', event => {
   }
   */
 
-  if (event.request.cache === 'only-if-cached') return;
+  // if (event.request.cache === 'only-if-cached') return;
 
   // for everything else, try the network first, falling back to
   // cache if the user is offline. (If the pages never change, you
