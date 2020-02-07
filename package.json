@@ -1,6 +1,6 @@
 {
-  "name": "cv-generator",
-  "description": "Generate CV in PDF format",
+  "name": "simple-sapper-tebplate",
+  "description": "simple sapper template",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
